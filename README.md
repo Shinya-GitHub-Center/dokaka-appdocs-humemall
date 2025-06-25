@@ -2,7 +2,7 @@
 
 ## Welcome to the world of HUM 'em ALL! 🎵
 
-[HUM 'em ALL](https://humemall.dokaka.com/) is a unique humming-based music creation platform where users can record their humming voices by mimicking different instrument sounds and mix 'em together to create collaborative musical experiences. Think of it as a virtual band where everyone contributes their humming amusement. (Imagine virtual band on cloud, but with humming-hubs!!)
+HUM 'em ALL is a unique humming-based music creation platform where users can record their humming voices by mimicking different instrument sounds and mix 'em together to create collaborative musical experiences. Think of it as a virtual band where everyone contributes their humming amusement. (Imagine virtual band on cloud, but with humming-hubs!!)
 
 ## Quick Start Guide
 
@@ -168,10 +168,10 @@
 ## Support & Help
 
 ### General Questions
-Visit our [Support page](https://humemall.dokaka.com/support) for FAQs and contact information.
+Visit our Support Page for FAQs and contact information.
 
 ### Technical Problems
-Include your OS, browser type/version, and detailed issue description when contacting [support](https://humemall.dokaka.com/support).
+Include your OS, browser type/version, and detailed issue description when contacting our support.
 
 ### Account Issues
 Logged-in users: Check your Account page for direct support options.
@@ -200,4 +200,4 @@ Logged-in users: Check your Account page for direct support options.
 
 **App created by Dokaka (Shinya Ihara) / Administrator of the app, with the help of claude-3.7-sonnet and claude-4-sonnet built-in the AI code editor, [Cursor](https://www.cursor.com/)**
 
-**[HUM 'em ALL](https://humemall.dokaka.com/) © 2025 [Dokaka](https://dokaka.com/)**
+**HUM 'em ALL © 2025 [Dokaka](https://dokaka.com/)**
