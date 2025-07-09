@@ -78,6 +78,7 @@ HUM 'em ALL is a unique humming-based music creation platform where users can re
 **Regular Mode:**
 - Browse published songboxes from all users
 - Songboxes are ordered by a detection of the newly created (recoreded) clips on each songbox (Other sorting pattern is under construction)
+- Click on the song title (displayed with nose icon) to toggle between song name and creator name (displayed with mouth icon)
 - Play individual clips or use MIX button for full songbox playback
 - Loop mode is always on for playing clips within songboxes
 - Load more content with "Load More" button on the bottom-right corner
@@ -116,7 +117,8 @@ HUM 'em ALL is a unique humming-based music creation platform where users can re
 - Pure human voice humming without meaningful words
 - Nonsense syllables like "la la la", "ta ka to ko", "wo wo wo"
 - Original humming compositions
-- Slightly modified covers or tribute-style humming (the ones which apparently contain feel of respect to originators)
+- Slightly modified or tribute-style humming for copyrighted songs (the ones which apparently contain feel of respect to originators)
+- Classical music and other works clearly in the public domain (where copyright has expired)
 
 ### ❌ What's Not Allowed
 - Meaningful words or language
