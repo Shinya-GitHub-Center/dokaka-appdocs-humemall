@@ -7,7 +7,7 @@ HUM 'em ALL is a unique humming-based music creation platform where users can re
 ## Quick Start Guide
 
 ### 1. Sign Up & Login
-- Go to Login page, then choose your preferred social account (Google, Facebook, or GitHub)
+- Go to Login page, then choose your preferred social account (Google, GitHub, or Discord)
 - Set up your unique display name after first registration
 - You're ready to start humming!
 
@@ -102,14 +102,14 @@ HUM 'em ALL is a unique humming-based music creation platform where users can re
 
 ### 👤 Account Management
 - Change your display name anytime
-- Link up to 3 OAuth accounts (Google, Facebook, GitHub)
+- Link up to 3 OAuth accounts (Google, GitHub, Discord)
 - Unlink accounts (except the one you're currently using)
 - You can pick up preffered oauth acocunt for login, if you have already linked some providers
 - Once your currently linked OAuth account is left just one (the one you are currently logged-in), you can delete your account at anytime completely
 - You can delete your account once all audio clips had been removed from your account, which should be done beforehand by you
 - After unlinked provider or deleted your account, please do not forget to remove this app name from each provider's dashboard (e.g. My account page at Google), this will finish up complete deletion.
 
-> All users including guests can see your display name, on the other hand, your email address (name for Facebook) is completely private from all other people.
+> All users including guests can see your display name, on the other hand, your email address is completely private from all other people.
 
 ## Audio Content Guidelines
 
@@ -144,7 +144,7 @@ HUM 'em ALL is a unique humming-based music creation platform where users can re
 ## Privacy & Safety
 
 ### Your Data
-- We collect minimal information (email from Google/GitHub, name from Facebook)
+- We collect minimal information (emails used for registration / linking)
 - Your humming clips are only visible when you publish them (and of course, only registered users can see them even you set to published)
 - Logged-out users can only see admin sample clips (admin clips only)
 - No CDN caching for any user clips (privacy protection), except admin's sample clips
